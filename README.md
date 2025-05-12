@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 I am studying Computer Science and Cybersecurity at Texas A&M<br>💻I like working on integrated circuits and wish to learn more in that area<br>🐈I have two wonderful cats named Meatball and Spaghetti<br>
+👨‍🎓 I am studying Computer Science and Cybersecurity at Texas A&M<br>💻I like working on integrated circuits and wish to learn more in that area<br>🐈I have two wonderful cats named Meatball and Spaghetti<br>👀My commits are not visible because all my work is college related and therefore private<br>
 
 
 ## 🌐 Socials:
