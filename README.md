@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓I recently graduated from Texas A&M in Computer Science and Cybersecurity <br>💻I like working on hardware and machine learning projects <br>🐈I have two wonderful cats named Meatball and Spaghetti<br>👀My commits are not visible because most of my work is college-related and therefore private<br>
+👨‍🎓I recently graduated from Texas A&M in Computer Science and Cybersecurity <br>💻I like working on hardware and machine learning projects <br>🐈I have two wonderful cats named Meatball and Spaghetti<br>👀I am currently looking for a job as a junior developer in Python and cybersecurity<br>
 
 
 ## 🌐 Socials:
